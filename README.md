@@ -1,2 +1,2 @@
 # BFS.py
-Estudo de BFS
+Estudo de BFS com uso de Python
